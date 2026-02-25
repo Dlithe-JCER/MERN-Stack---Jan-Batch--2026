@@ -1,1 +1,1 @@
-# MERN-Stack---Jan-Batch--2026
+# MERN-Stack-Jan-Batch--2026
